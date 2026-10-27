@@ -1,0 +1,6 @@
+# Hugo 生成目录
+public/
+# Hugo 资源缓存
+resources/
+# 操作系统
+.DS_Store
